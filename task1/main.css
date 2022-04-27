@@ -1,0 +1,101 @@
+.div{
+    margin: auto;
+    
+    box-sizing: border-box;
+    
+}
+.top-left{
+    width: 20%;
+    height: 40px;
+    border: 1px solid dimgrey;
+    background-color: rgb(204, 200, 200);
+    float: left;
+}
+.div p{
+    text-align: center;
+    margin-top: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.top-right{
+    width: 75%;
+    height: 40px;
+    border: 1px solid dimgrey;
+    background-color: rgb(204, 200, 200);
+    margin-left: 10px;
+    float: left;
+}
+.top{
+    width: 95.8%;
+    height: 40px;
+    border: 1px solid dimgrey;
+    background-color: rgb(204, 200, 200);
+    display: inline-block;
+    margin-top: 10px;
+}
+.left-div{
+    width: 47.5%;
+    height: 250px;
+    border: 1px solid dimgrey;
+    background-color: rgb(204, 200, 200);
+    display: inline-block;
+    margin-top: 10px;
+}
+.right-div{
+    width: 47.2%;
+    height: 250px;
+    border: 1px solid dimgrey;
+    background-color: rgb(204, 200, 200);
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.left-div p{
+    margin-top: 100px;
+}
+.right-div p{
+    margin-top: 100px;
+}
+.right3{
+    width: 31.2%;
+    height: 250px;
+    border: 1px solid dimgrey;
+    background-color: rgb(204, 200, 200);
+    display: inline-block;
+    margin-top: 10px
+}
+.center{
+    width: 31.2%;
+    height: 250px;
+    border: 1px solid dimgrey;
+    background-color: rgb(204, 200, 200);
+    display: inline-block;
+    margin-left: 10px;
+}
+.left3{
+    width: 31.2%;
+    height: 250px;
+    border: 1px solid dimgrey;
+    background-color: rgb(204, 200, 200);
+    display: inline-block;
+    margin-left: 10px;
+}
+.right3 p{
+    margin-top: 100px;
+}
+.center p{
+    margin-top: 100px;
+}
+.left3 p{
+    margin-top: 100px;
+}
+.buttom{
+    width: 95.8%;
+    height: 30px;
+    border: 1px solid dimgrey;
+    background-color: rgb(204, 200, 200);
+    display: inline-block;
+    margin-top: 10px;
+}
+.buttom p{
+    margin-top: 1px;
+}

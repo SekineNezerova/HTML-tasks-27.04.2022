@@ -1,0 +1,21 @@
+.bi{
+   margin-left: 15px;
+   font-size: 50px;
+
+}
+.bi-facebook{
+   color: rgba(17, 64, 219, 0.781);
+}
+.bi-twitter{
+    color: rgb(61, 188, 238);
+}
+
+.bi-instagram{
+    color: rgb(64, 52, 226);
+}
+.bi-linkedin{
+    color: rgb(37, 87, 110);
+}
+.bi-person-circle{
+  color: blue;
+}
